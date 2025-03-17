@@ -1,7 +1,7 @@
 # Rock-Paper-Sissors
 A Simple Rock Paper Scissors Game using HTML,CSS and JavaScript.
 
-🎮 Rock Paper Scissors Game
+🎮 Rock Paper Scissors Game : https://vaidikkumarpatel410.github.io/Rock-Paper-Sissors/
 
 A simple yet fun Rock Paper Scissors game built using HTML, CSS, and JavaScript! Challenge the computer, test your luck, and see who wins!
 
