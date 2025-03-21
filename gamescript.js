@@ -31,7 +31,7 @@ const showWinner=(userWin,userChoice,compChoice)=>{
 
 const genCompChoice=()=>{
     const options=["rock","paper","sissors"];
-    const rndIndx=(Math.floor(Math.random()*10000))%3;
+    const rndIndx = Math.floor(Math.random() * options.length);
     return options[rndIndx];
 }
 
